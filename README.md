@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm  currently working on flutter projects<br>🌱I'm currently learning also UI UX design<br>🗨️Ask me about Flutter related stuff also new technology<br>🤝How to reach me : Linkedln : https://www.linkedin.com/in/amit-masram/<br>👦pronouns :He/His<br><br>
+💻I'm  currently working on flutter projects<br>🌱I'm currently learning Entrepreneurship<br>🗨️Ask me about Flutter related stuff also new technology<br>🤝How to reach me : Linkedln : https://www.linkedin.com/in/amit-masram/<br>👦pronouns :He/His<br><br>
 
 
 ## 🌐 Socials:
