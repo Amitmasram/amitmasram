@@ -2,18 +2,13 @@
 <h1 align="center">Hey there! 👋 I'm Amit</h1>
 
 <!-- Introduction Section -->
-<p align="center">Passionate Flutter Developer | Prompt Engineer | Entrepreneurial Explorer</p>
-
-<!-- Tech Stack Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Entrepreneurship-%23FFD700.svg?style=for-the-badge" alt="Entrepreneurship">
-</p>
+<p align="center">Passionate Developer | Prompt Engineer | Entrepreneurial Explorer</p>
 
 <!-- About Me Section -->
 <p align="center">
-  🚀 Ask me about Flutter or tech.<br>
+  🚀 Ask me about tech and development.<br>
   💼 Available for freelance and collaborations.<br>
+  🛠️ Love to build things.<br>
   Happy coding! 🚀
 </p>
 
@@ -34,8 +29,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23007ACC.svg?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%234ea94b.svg?style=for-the-badge)
+![Content Creation](https://img.shields.io/badge/Content%20Creation-%230176D2.svg?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 
