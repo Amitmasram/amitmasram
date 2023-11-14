@@ -6,7 +6,7 @@
 
 <!-- Tech Stack Section -->
 <p align="center">
-  🛠️ **Love to build things.**<br>
+  💙 **Love to build things.**<br>
 </p>
 
 <!-- About Me Section -->
@@ -34,6 +34,7 @@
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![SharedPreferences](https://img.shields.io/badge/SharedPreferences-%23000000.svg?style=for-the-badge)](https://flutter.dev/docs/cookbook/persistence/key-value)
 [![Hive](https://img.shields.io/badge/Hive-%23C20E2D.svg?style=for-the-badge&logo=hive&logoColor=white)](https://hive.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
