@@ -1,5 +1,21 @@
-# 💫 About Me:
-💻I'm  currently working on flutter projects<br>🌱I'm currently learning Entrepreneurship<br>🗨️Ask me about Flutter related stuff also new technology<br>🤝How to reach me : Linkedln : https://www.linkedin.com/in/amit-masram/<br>👦pronouns :He/His<br><br>
+<!-- Welcome Section -->
+<h1 align="center">Hey there! 👋 I'm Amit</h1>
+
+<!-- Introduction Section -->
+<p align="center">Passionate Flutter Developer | Prompt Engineer | Entrepreneurial Explorer</p>
+
+<!-- Tech Stack Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Entrepreneurship-%23FFD700.svg?style=for-the-badge" alt="Entrepreneurship">
+</p>
+
+<!-- About Me Section -->
+<p align="center">
+  🚀 Ask me about Flutter or tech.<br>
+  💼 Available for freelance and collaborations.<br>
+  Happy coding! 🚀
+</p>
 
 
 ## 🌐 Socials:
