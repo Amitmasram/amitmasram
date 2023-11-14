@@ -4,13 +4,18 @@
 <!-- Introduction Section -->
 <p align="center">Passionate Developer | Prompt Engineer | Entrepreneurial Explorer</p>
 
+<!-- Tech Stack Section -->
+<p align="center">
+  🛠️ **Love to build things.**<br>
+</p>
+
 <!-- About Me Section -->
 <p align="center">
   🚀 Ask me about tech and development.<br>
   💼 Available for freelance and collaborations.<br>
-  🛠️ Love to build things.<br>
   Happy coding! 🚀
 </p>
+
 
 
 ## 🌐 Socials:
