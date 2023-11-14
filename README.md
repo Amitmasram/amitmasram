@@ -2,11 +2,12 @@
 <h1 align="center">Hey there! 👋 I'm Amit</h1>
 
 <!-- Introduction Section -->
-<p align="center">Passionate Developer | Prompt Engineer | Entrepreneurial Explorer</p>
+<p align="center">Passionate Flutter Developer | Prompt Engineer | Entrepreneurial Explorer</p>
 
 <!-- Tech Stack Section -->
 <p align="center">
   🛠️ **Love to build things.**<br>
+  ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-%23000000.svg?style=for-the-badge)
 </p>
 
 <!-- About Me Section -->
@@ -15,6 +16,7 @@
   💼 Available for freelance and collaborations.<br>
   Happy coding! 🚀
 </p>
+
 
 
 
