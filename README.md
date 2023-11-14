@@ -7,7 +7,6 @@
 <!-- Tech Stack Section -->
 <p align="center">
   🛠️ **Love to build things.**<br>
-  ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-%23000000.svg?style=for-the-badge)
 </p>
 
 <!-- About Me Section -->
@@ -22,6 +21,10 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amitmasram) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/skytech_28/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/AmitMasram10)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC95U3IDgISWVeyqo4CGBywQ)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
