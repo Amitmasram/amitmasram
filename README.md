@@ -6,7 +6,7 @@
 
 <!-- Tech Stack Section -->
 <p align="center">
-  💙 **Love to build things.**<br>
+  💙 Love to build things.<br>
 </p>
 
 <!-- About Me Section -->
