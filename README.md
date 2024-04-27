@@ -33,11 +33,12 @@
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,express,fastapi,react,nextjs,xml,or,jetpackcompose)](https://skillicons.dev)
+
 
 <h2>Databases</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongo,firebase,supabase,appwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,appwrite,mongo,postgres)](https://skillicons.dev)
   
 <h2>Tools</h2>
  
