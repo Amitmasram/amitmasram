@@ -44,7 +44,8 @@
   
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,restapi,postman,canva,promptengineering)](https://skillicons.dev)
+
 
 
 
