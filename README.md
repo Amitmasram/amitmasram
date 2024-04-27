@@ -32,8 +32,9 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
-  
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,android,express)](https://skillicons.dev)
+
 
 
 <h2>Databases</h2>
