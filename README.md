@@ -29,7 +29,7 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,dart,java,kotlin,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,dart,java,kotlin,ts,python,go)](https://skillicons.dev)
 
 
 <h2>Frameworks</h2>
