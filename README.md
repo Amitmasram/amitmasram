@@ -34,7 +34,7 @@
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,android,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,androidstudio,express)](https://skillicons.dev)
 
 
 
