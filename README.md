@@ -44,7 +44,7 @@
   
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,socket.io,notion,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,notion,ai)](https://skillicons.dev)
 
 
 
