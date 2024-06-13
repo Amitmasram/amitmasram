@@ -29,12 +29,12 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,dart,java,kotlin,ts,python,golang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,dart,java,ts,golang)](https://skillicons.dev)
 
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,androidstudio,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,express)](https://skillicons.dev)
 
 
 
