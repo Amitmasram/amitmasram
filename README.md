@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Amit</h1>
 
 <!-- Introduction Section -->
-<p align="center">Passionate Flutter Developer | Prompt Engineer | Entrepreneurial Explorer</p>
+<p align="center">Passionate Flutter Developer | Software Engineer | Entrepreneurial Explorer</p>
 
 <!-- Tech Stack Section -->
 <p align="center">
