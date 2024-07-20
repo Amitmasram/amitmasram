@@ -25,28 +25,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/AmitMasram10)
 
 
-# 💻 Tech Stack:
-
-<h2>Languages</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=c,dart,java,ts,golang)](https://skillicons.dev)
-
-
-<h2>Frameworks</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,androidstudio,express)](https://skillicons.dev)
-
-
-
-<h2>Databases</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,mongo)](https://skillicons.dev)
-  
-<h2>Tools</h2>
- 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,notion,ai)](https://skillicons.dev)
-
-
 
 
   ## 💰 You can help me by Donating
