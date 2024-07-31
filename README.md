@@ -11,9 +11,8 @@
 
 <!-- About Me Section -->
 <p align="center">
-  🚀 Ask me about tech and development.<br>
   💼 Available for freelance and collaborations.<br>
-  Happy coding! 🚀
+
 </p>
 
 
